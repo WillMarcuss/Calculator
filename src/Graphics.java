@@ -5,7 +5,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
-public class Handling extends Application {
+public class Graphics extends Application {
     private double firstNum;
     private double secondNum;
     private String whichCalculation;
